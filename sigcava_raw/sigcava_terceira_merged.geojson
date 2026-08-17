@@ -1,0 +1,2817 @@
+{
+ "type": "FeatureCollection",
+ "name": "SIGCAVA Terceira cavities (merged: 64 point features + 13 survey-line features reduced to their centroid; 77 = every Terceira cavity SIGCAVA holds)",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.285273,
+     38.799258
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar da Canada do Laranjo",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Altares",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_1",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.799258,
+    "lon_wgs84": -27.285273,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.357442,
+     38.757344
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Biscoitinho",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Serreta",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_2",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.757344,
+    "lon_wgs84": -27.357442,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.324201,
+     38.746735
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Canadão",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Serreta",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "5",
+    "topografia": "Não",
+    "unique_id": "ter_3",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.746735,
+    "lon_wgs84": -27.324201,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.24057,
+     38.755255
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Chambre",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "17",
+    "topografia": "Não",
+    "unique_id": "ter_4",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.755255,
+    "lon_wgs84": -27.24057,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.255074,
+     38.739715
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Funil",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "22",
+    "topografia": "Não",
+    "unique_id": "ter_5",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.739715,
+    "lon_wgs84": -27.255074,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.139231,
+     38.694103
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do João Caldo Quente",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Vila de São Sebastião",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "15",
+    "topografia": "Não",
+    "unique_id": "ter_6",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.694103,
+    "lon_wgs84": -27.139231,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.239578,
+     38.757906
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Juncal",
+    "dimensao": 5,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "50",
+    "topografia": "Não",
+    "unique_id": "ter_7",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.757906,
+    "lon_wgs84": -27.239578,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.270503,
+     38.736463
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Negro",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_8",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.736463,
+    "lon_wgs84": -27.270503,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.253636,
+     38.749658
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Outeiro da Doninha",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_9",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.749658,
+    "lon_wgs84": -27.253636,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.21012,
+     38.75599
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar do Pico Alto",
+    "dimensao": 4,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "25",
+    "topografia": "Não",
+    "unique_id": "ter_10",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.75599,
+    "lon_wgs84": -27.21012,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.212706,
+     38.723813
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Pico do Funil",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_11",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.723813,
+    "lon_wgs84": -27.212706,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.270928,
+     38.730154
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Pico Gaspar I",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "São Bartolomeu de Regatos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "14",
+    "topografia": "Não",
+    "unique_id": "ter_12",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.730154,
+    "lon_wgs84": -27.270928,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.269886,
+     38.728354
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Pico Gaspar II",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "São Bartolomeu de Regatos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "19",
+    "topografia": "Não",
+    "unique_id": "ter_13",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.728354,
+    "lon_wgs84": -27.269886,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_13"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.345756,
+     38.763723
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar dos Funis",
+    "dimensao": 0,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Serreta",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_14",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.763723,
+    "lon_wgs84": -27.345756,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.271261,
+     38.73602
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Algar/Gruta do Mistério",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "13",
+    "topografia": "Não",
+    "unique_id": "ter_15",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.73602,
+    "lon_wgs84": -27.271261,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_15"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.345695,
+     38.710401
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar/Gruta do Pico das Dez",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Santa Bárbara",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "14",
+    "topografia": "Não",
+    "unique_id": "ter_16",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.710401,
+    "lon_wgs84": -27.345695,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_16"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.345123,
+     38.749343
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Cova do Caldeirão",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Serreta",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_17",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.749343,
+    "lon_wgs84": -27.345123,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.229331,
+     38.645009
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Fenda do Pico Zimbreiro",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Angra (Sé)",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_18",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.645009,
+    "lon_wgs84": -27.229331,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_18"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.178696,
+     38.70818
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Furna d' Água",
+    "dimensao": 4,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 4,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_19",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.70818,
+    "lon_wgs84": -27.178696,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_19"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.195991,
+     38.795134
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Furna da Nascente",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_20",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.795134,
+    "lon_wgs84": -27.195991,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.244434,
+     38.797971
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Furna da Rua Longa",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_21",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.797971,
+    "lon_wgs84": -27.244434,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_21"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.317953,
+     38.715617
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Furna das Feiticeiras",
+    "dimensao": 0,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Santa Bárbara",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_22",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.715617,
+    "lon_wgs84": -27.317953,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.195622,
+     38.795161
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Furna das Pombas",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_23",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.795161,
+    "lon_wgs84": -27.195622,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.183204,
+     38.712463
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Furna do Cabrito",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_24",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.712463,
+    "lon_wgs84": -27.183204,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.361876,
+     38.780761
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Furna do Poço Negro",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Raminho",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_25",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.780761,
+    "lon_wgs84": -27.361876,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_25"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.195852,
+     38.795134
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Furna dos Ninhos",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_26",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.795134,
+    "lon_wgs84": -27.195852,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.092893,
+     38.678829
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Galeria da Ribeira Seca",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Vila de São Sebastião",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_27",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.678829,
+    "lon_wgs84": -27.092893,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_27"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.229311,
+     38.653399
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Galeria do Fanal",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Angra (São Pedro)",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_28",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.653399,
+    "lon_wgs84": -27.229311,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_28"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.145728,
+     38.705568
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Galeria do Felisberto Joaquim",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Vila de São Sebastião",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_29",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.705568,
+    "lon_wgs84": -27.145728,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_29"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.073595,
+     38.684016
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Galeria do Sequeira",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Fonte do Bastardo",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_30",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.684016,
+    "lon_wgs84": -27.073595,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.149912,
+     38.632611
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta Briza Azul",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Feteira",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_31",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.632611,
+    "lon_wgs84": -27.149912,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_31"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.151334,
+     38.729568
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 5,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Achada",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_32",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.729568,
+    "lon_wgs84": -27.151334,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.067427,
+     38.677819
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Canada das Vinhas",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Praia da Vitória",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_33",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.677819,
+    "lon_wgs84": -27.067427,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_33"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.283759,
+     38.800658
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta da Canada do Laranjo",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Altares",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_34",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.800658,
+    "lon_wgs84": -27.283759,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_34"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.252567,
+     38.769531
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Cascata",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_35",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.769531,
+    "lon_wgs84": -27.252567,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_35"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.252997,
+     38.78385
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Chamusca",
+    "dimensao": 0,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_36",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.78385,
+    "lon_wgs84": -27.252997,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_36"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.259486,
+     38.747392
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Malha Grande",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_37",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.747392,
+    "lon_wgs84": -27.259486,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_37"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.100941,
+     38.646524
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta da Salga",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Vila de São Sebastião",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_38",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.646524,
+    "lon_wgs84": -27.100941,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_38"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.266823,
+     38.721512
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta da Santinha",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "São Bartolomeu de Regatos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_39",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.721512,
+    "lon_wgs84": -27.266823,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_39"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.254425,
+     38.76777
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Terra Mole",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_40",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.76777,
+    "lon_wgs84": -27.254425,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_40"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.150092,
+     38.652708
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta das Mercês I",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Feteira",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_41",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.652708,
+    "lon_wgs84": -27.150092,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_41"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.149964,
+     38.652185
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta das Mercês II",
+    "dimensao": 0,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Feteira",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 1,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_42",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.652185,
+    "lon_wgs84": -27.149964,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.050209,
+     38.70043
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta de Santa Catarina",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Cabo da Praia",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_43",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.70043,
+    "lon_wgs84": -27.050209,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_43"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.073435,
+     38.684917
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta de Santo António",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Fonte do Bastardo",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 4,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_44",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.684917,
+    "lon_wgs84": -27.073435,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_44"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.104628,
+     38.644971
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Alicerce",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_45",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.644971,
+    "lon_wgs84": -27.104628,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_45"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.077019,
+     38.682022
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Baldio",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Vila de São Sebastião",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_46",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.682022,
+    "lon_wgs84": -27.077019,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_46"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.15114,
+     38.735786
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Biscoito",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_47",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.735786,
+    "lon_wgs84": -27.15114,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_47"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.182011,
+     38.713465
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Camelo",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 1,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_48",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.713465,
+    "lon_wgs84": -27.182011,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_48"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.271162,
+     38.746365
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Cerro I",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_49",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.746365,
+    "lon_wgs84": -27.271162,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_49"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.271252,
+     38.74888
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Cerro II",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_50",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.74888,
+    "lon_wgs84": -27.271252,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_50"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.271644,
+     38.749194
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Cerro III",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_51",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.749194,
+    "lon_wgs84": -27.271644,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.184338,
+     38.710668
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Esqueleto",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_52",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.710668,
+    "lon_wgs84": -27.184338,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_52"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.156401,
+     38.731868
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Golfe",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Agualva",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_53",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.731868,
+    "lon_wgs84": -27.156401,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_53"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.252959,
+     38.766529
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Martelo",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_54",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.766529,
+    "lon_wgs84": -27.252959,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_54"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.257365,
+     38.772242
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Morro da Azenha",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_55",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.772242,
+    "lon_wgs84": -27.257365,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_55"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.212671,
+     38.723588
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Pico do Funil",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 3,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_56",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.723588,
+    "lon_wgs84": -27.212671,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_56"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.2513,
+     38.766064
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Terreiro da Macela",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_57",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.766064,
+    "lon_wgs84": -27.2513,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_57"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.14871,
+     38.651394
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 0,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Zé Grande I",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Feteira",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_58",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.651394,
+    "lon_wgs84": -27.14871,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_58"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.152007,
+     38.651065
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 1,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta do Zé Grande II",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Feteira",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 3,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_59",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.651065,
+    "lon_wgs84": -27.152007,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_59"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.253417,
+     38.755976
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 5,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta dos Buracos",
+    "dimensao": 3,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 2,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_60",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.755976,
+    "lon_wgs84": -27.253417,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_60"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.182633,
+     38.709373
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta dos Ratos",
+    "dimensao": 2,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 2,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_61",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.709373,
+    "lon_wgs84": -27.182633,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_61"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.270136,
+     38.736689
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 3,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta Pequena",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 0,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_62",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.736689,
+    "lon_wgs84": -27.270136,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_62"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.217155,
+     38.642824
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Tubo I do Monte Brasil",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Angra (Sé)",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_63",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.642824,
+    "lon_wgs84": -27.217155,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_63"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.217211,
+     38.642527
+    ]
+   },
+   "properties": {
+    "alt_maxima": 0,
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": 2,
+    "classe": "C",
+    "compriment": 0,
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Tubo II do Monte Brasil",
+    "dimensao": 1,
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Angra (Sé)",
+    "geologia": 1,
+    "ilha": "Terceira",
+    "integridad": 5,
+    "larg_maxim": 0,
+    "profundida": "0",
+    "topografia": "Não",
+    "unique_id": "ter_64",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_pt_azo",
+    "lat_wgs84": 38.642527,
+    "lon_wgs84": -27.217211,
+    "geom_note": "point",
+    "feature_id": "cavidadesvulcanicas_pt_azo.ter_64"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.214652,
+     38.727775
+    ]
+   },
+   "properties": {
+    "alt_maxima": "-",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "120",
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Algar do Carvão",
+    "dimensao": "5",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": "5",
+    "id": 11,
+    "ilha": "Terceira",
+    "integridad": "4",
+    "larg_maxim": "-",
+    "objectid": 1,
+    "profundida": "90",
+    "shape_length": 1247.80914813823,
+    "topografia": "Sim",
+    "unique_id": "ter_1",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.727775,
+    "lon_wgs84": -27.214652,
+    "geom_note": "centroid of survey MultiLineString (19102 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.181142,
+     38.713271
+    ]
+   },
+   "properties": {
+    "alt_maxima": "-",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "B",
+    "compriment": "320",
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Furna de Santa Maria",
+    "dimensao": "3",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": "3",
+    "id": 46,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "-",
+    "objectid": 2,
+    "profundida": "-",
+    "shape_length": 690.890372979344,
+    "topografia": "Sim",
+    "unique_id": "ter_2",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo_1",
+    "lat_wgs84": 38.713271,
+    "lon_wgs84": -27.181142,
+    "geom_note": "centroid of survey MultiLineString (15799 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo_1.ter_2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.267293,
+     38.751408
+    ]
+   },
+   "properties": {
+    "alt_maxima": "10.9",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "3",
+    "classe": "B",
+    "compriment": "639.9",
+    "concelho": "Praia da Vitória",
+    "designacao": "Galeria da Queimada",
+    "dimensao": "5",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "5",
+    "id": 47,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "2.5",
+    "objectid": 3,
+    "profundida": "-",
+    "shape_length": 1390.76828397036,
+    "topografia": "Sim",
+    "unique_id": "ter_3",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo_1",
+    "lat_wgs84": 38.751408,
+    "lon_wgs84": -27.267293,
+    "geom_note": "centroid of survey MultiLineString (21008 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo_1.ter_3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.106,
+     38.645119
+    ]
+   },
+   "properties": {
+    "alt_maxima": "5.4",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "250.5",
+    "concelho": "Angra do Heroísmo",
+    "designacao": "Gruta das Agulhas",
+    "dimensao": "5",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Judeu",
+    "geologia": "5",
+    "id": 15,
+    "ilha": "Terceira",
+    "integridad": "4",
+    "larg_maxim": "4.5",
+    "objectid": 4,
+    "profundida": "-",
+    "shape_length": 708.631821627104,
+    "topografia": "Sim",
+    "unique_id": "ter_4",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.645119,
+    "lon_wgs84": -27.106,
+    "geom_note": "centroid of survey MultiLineString (32513 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.252974,
+     38.761835
+    ]
+   },
+   "properties": {
+    "alt_maxima": "6",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "2713",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta dos Balcões",
+    "dimensao": "5",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "5",
+    "id": 19,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "7",
+    "objectid": 5,
+    "profundida": "-",
+    "shape_length": 8986.6515737817,
+    "topografia": "Sim",
+    "unique_id": "ter_5",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.761835,
+    "lon_wgs84": -27.252974,
+    "geom_note": "centroid of survey MultiLineString (165594 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.251879,
+     38.779785
+    ]
+   },
+   "properties": {
+    "alt_maxima": "5",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "99",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Branca Opala",
+    "dimensao": "3",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "5",
+    "id": 12,
+    "ilha": "Terceira",
+    "integridad": "4",
+    "larg_maxim": "10",
+    "objectid": 6,
+    "profundida": "-",
+    "shape_length": 415.850576212542,
+    "topografia": "Sim",
+    "unique_id": "ter_6",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.779785,
+    "lon_wgs84": -27.251879,
+    "geom_note": "centroid of survey MultiLineString (29189 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.258573,
+     38.774287
+    ]
+   },
+   "properties": {
+    "alt_maxima": "2.6",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "148",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Caldeira",
+    "dimensao": "3",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "4",
+    "id": 16,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "5.6",
+    "objectid": 7,
+    "profundida": "-",
+    "shape_length": 623.925263327635,
+    "topografia": "Sim",
+    "unique_id": "ter_7",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.774287,
+    "lon_wgs84": -27.258573,
+    "geom_note": "centroid of survey MultiLineString (75762 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.252183,
+     38.780452
+    ]
+   },
+   "properties": {
+    "alt_maxima": "6.2",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "108.7",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Chocolate",
+    "dimensao": "4",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "5",
+    "id": 17,
+    "ilha": "Terceira",
+    "integridad": "5",
+    "larg_maxim": "3.6",
+    "objectid": 8,
+    "profundida": "-",
+    "shape_length": 300.829185896017,
+    "topografia": "Sim",
+    "unique_id": "ter_8",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.780452,
+    "lon_wgs84": -27.252183,
+    "geom_note": "centroid of survey MultiLineString (21188 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.270079,
+     38.738562
+    ]
+   },
+   "properties": {
+    "alt_maxima": "5",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "B",
+    "compriment": "171.5",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Coelho",
+    "dimensao": "2",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "3",
+    "id": 48,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "7.2",
+    "objectid": 9,
+    "profundida": "-",
+    "shape_length": 758.383122568525,
+    "topografia": "Sim",
+    "unique_id": "ter_9",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo_1",
+    "lat_wgs84": 38.738562,
+    "lon_wgs84": -27.270079,
+    "geom_note": "centroid of survey MultiLineString (71054 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo_1.ter_9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.068585,
+     38.682968
+    ]
+   },
+   "properties": {
+    "alt_maxima": "13.5",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "244.8",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Madre de Deus",
+    "dimensao": "3",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Porto Martins",
+    "geologia": "4",
+    "id": 13,
+    "ilha": "Terceira",
+    "integridad": "4",
+    "larg_maxim": "11.5",
+    "objectid": 10,
+    "profundida": "-",
+    "shape_length": 1964.29481696399,
+    "topografia": "Sim",
+    "unique_id": "ter_10",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.682968,
+    "lon_wgs84": -27.068585,
+    "geom_note": "centroid of survey MultiLineString (200760 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.253815,
+     38.751046
+    ]
+   },
+   "properties": {
+    "alt_maxima": "-",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "450",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta da Malha",
+    "dimensao": "4",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "4",
+    "id": 14,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "-",
+    "objectid": 11,
+    "profundida": "-",
+    "shape_length": 1631.27354677946,
+    "topografia": "Sim",
+    "unique_id": "ter_11",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.751046,
+    "lon_wgs84": -27.253815,
+    "geom_note": "centroid of survey MultiLineString (70044 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.267997,
+     38.737769
+    ]
+   },
+   "properties": {
+    "alt_maxima": "7",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "A",
+    "compriment": "696.6",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta do Natal",
+    "dimensao": "4",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "5",
+    "id": 18,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "12",
+    "objectid": 12,
+    "profundida": "-",
+    "shape_length": 3367.21252692271,
+    "topografia": "Sim",
+    "unique_id": "ter_12",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo",
+    "lat_wgs84": 38.737769,
+    "lon_wgs84": -27.267997,
+    "geom_note": "centroid of survey MultiLineString (118569 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo.ter_12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.256215,
+     38.770754
+    ]
+   },
+   "properties": {
+    "alt_maxima": "4",
+    "beginlifes": "2024-12-16T00:00:00.000Z",
+    "biologia": "5",
+    "classe": "B",
+    "compriment": "486",
+    "concelho": "Praia da Vitória",
+    "designacao": "Gruta dos Principiantes",
+    "dimensao": "3",
+    "diploma": "Resolução do Conselho do Governo n.º 163/2024, de 4 de novembro",
+    "fonte": "Secretaria Regional do Ambiente e Ação Climática/Direção Regional do Ambiente e Ação Climática/Divisão de Conservação da Natureza (2024)",
+    "freguesia": "Biscoitos",
+    "geologia": "3",
+    "id": 49,
+    "ilha": "Terceira",
+    "integridad": "3",
+    "larg_maxim": "12",
+    "objectid": 13,
+    "profundida": "-",
+    "shape_length": 733.994272701092,
+    "topografia": "Sim",
+    "unique_id": "ter_13",
+    "validfrom": "2024-11-04T00:00:00.000Z",
+    "source_layer": "cavidadesvulcanicas_ln_azo_1",
+    "lat_wgs84": 38.770754,
+    "lon_wgs84": -27.256215,
+    "geom_note": "centroid of survey MultiLineString (38011 vertices)",
+    "feature_id": "cavidadesvulcanicas_ln_azo_1.ter_13"
+   }
+  }
+ ]
+}

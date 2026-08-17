@@ -1,0 +1,59 @@
+{
+  "Algar do Carvão": [
+    {"lat": 38.727780, "lon": -27.215124, "kind": "pit", "confidence": "high", "method": "drawing-mark", "note": "Natural 45 m entrance pit (the algar itself): center of the large radial-hachure ring in the SIGCAVA drawing, with the visitor spiral staircases vectorized inside it."},
+    {"lat": 38.727885, "lon": -27.215412, "kind": "entrance", "confidence": "high", "method": "drawing-mark", "note": "Artificial access tunnel portal (1963 visitor tunnel): NW end of the straight double line that runs from the surface into the pit rim."}
+  ],
+  "Gruta do Natal": [
+    {"lat": 38.737549, "lon": -27.268315, "kind": "entrance", "confidence": "high", "method": "drawing-mark", "note": "Main managed entrance: radial-tick shaft circle connected by two ladder/stair bands to the drawn visitor building rectangle (SW corner of cave). The show cave has two managed entrances."},
+    {"lat": 38.737915, "lon": -27.268198, "kind": "entrance", "confidence": "low", "method": "drawing-mark", "note": "Small man-made quadrilateral drawn on the tube 45 m N of the main stairs - best candidate for the second managed (exit) stairway. Web sources only confirm 'two staircases' without a map."},
+    {"lat": 38.738444, "lon": -27.266806, "kind": "skylight", "confidence": "low", "method": "endpoint", "note": "Tiny square structure at the very NE tip of the long NE gallery; possible third opening, unverified."}
+  ],
+  "Gruta das Agulhas": [
+    {"lat": 38.646042, "lon": -27.105974, "kind": "entrance", "confidence": "high", "method": "gbif-snap", "note": "Single land entrance at the inland (N) tip of the tube; small closed tip with rock blob drawn. GBIF entrance fix is 19 m NE of the nearest wall vertex - good georeferencing agreement."},
+    {"lat": 38.644260, "lon": -27.106258, "kind": "exit", "confidence": "high", "method": "drawing-mark", "note": "Sea opening at Ponta dos Coelhos: the tube walls end in a gap between two coastal-cliff hachure lines drawn at the S end. Enter only at low tide with a calm sea."}
+  ],
+  "Gruta dos Balcões": [
+    {"lat": 38.763175, "lon": -27.253469, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Large collapse doline (30x16 m radial-hachure oval) in the NW sector - the main entrance collapse. GBIF fix lies 185 m WNW of the drawing (georef disagreement); its snap vertex is only 28 m from this doline, supporting it as the entrance."},
+    {"lat": 38.763364, "lon": -27.253251, "kind": "skylight", "confidence": "low", "method": "drawing-mark", "note": "Second, smaller radial-hachure ring (8 m) with breakdown field, 25 m NE of the main doline."},
+    {"lat": 38.757545, "lon": -27.252694, "kind": "skylight", "confidence": "low", "method": "drawing-mark", "note": "6 m radial-hachure ring at the S tip of the network. Cave is 'fractured by ceiling collapses' - multiple skylights likely; only rings actually drawn are listed."}
+  ],
+  "Gruta da Branca Opala": [
+    {"lat": 38.779368, "lon": -27.251594, "kind": "skylight", "confidence": "medium", "method": "drawing-mark", "note": "Upstream ('a montante') skylight entrance: 8.5 m radial-hachure ring at the S/SE end. Borges et al. 1994: three entrances, the first upstream is a skylight, the tube collects torrential water there."},
+    {"lat": 38.779974, "lon": -27.251992, "kind": "entrance", "confidence": "low", "method": "gbif-snap", "note": "GBIF entrance fix snapped 70 m to the N (downstream) end of the drawing; plausibly one of the two 'recent collapse' entrances of the 1994 text. Exact position on drawing unknown."}
+  ],
+  "Gruta do Chocolate": [
+    {"lat": 38.780168, "lon": -27.252355, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "40x40 cm hole entered 'por uma galeria secundária' (Montanheiros): tiny oval drawn inside the forked SW branch tip. GBIF fix is 21 m S of this tip - corroborates the southern end."}
+  ],
+  "Gruta do Caldeira": [
+    {"lat": 38.774122, "lon": -27.258529, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Small oval with leader line drawn at the S fork junction; same mark appears in Borges et al. 1994 Fig 5, whose station numbering starts here. 1986 description: small hole noticed by air condensation; both tube ends terminate in impassable collapses. No GBIF fix."}
+  ],
+  "Gruta da Madre de Deus": [
+    {"lat": 38.681988, "lon": -27.068148, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Walk-in entrance chamber ('sala de grande amplitude', station 0 of Borges et al. 1994 Fig 10): 10.5 m radial-hachure circle at the SE extremity, with surface-rock 'toes' drawn beyond it. GBIF fix sits 40 m W of mid-tube, matching neither end (ambiguous)."},
+    {"lat": 38.683551, "lon": -27.069097, "kind": "pit", "confidence": "medium", "method": "drawing-mark", "note": "Second entrance: 13.5 m vertical algar at station 24 (1994 text, Fig 10 '?' tip) = extreme NW tip of the breakdown-filled chamber. Note: the CSV attributes the 13.5 m pit to Mercês II, but the 1994 page-21 text referencing Fig 10 belongs to Madre de Deus."}
+  ],
+  "Gruta da Malha": [
+    {"lat": 38.751365, "lon": -27.254093, "kind": "entrance", "confidence": "low", "method": "gbif-snap", "note": "GBIF entrance fix snapped 27 m E to the west wall of the tube (local mid-south sector). No entrance mark identifiable in the drawing at this spot."},
+    {"lat": 38.751855, "lon": -27.254126, "kind": "skylight", "confidence": "low", "method": "drawing-mark", "note": "Largest collapse feature in the drawing: 18x15 m radial-hachure rim spanning the tube ~55 m N of the GBIF snap - candidate entrance collapse."}
+  ],
+  "Gruta do Coelho": [
+    {"lat": 38.738497, "lon": -27.270135, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Main entrance ('toca de coelho' rabbit-hole, Borges et al. 1994): E mark pair flanking the rung-hatched narrow passage at section a-a of Fig 7; the rung feature is unambiguously identifiable in the vector. GBIF fix is 148 m NW of the drawing (large georef disagreement) - all placements are in drawing space."},
+    {"lat": 38.738569, "lon": -27.270058, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Second E (entrada) mark of Fig 7 at the central mud-zone gallery edge (gallery from section e-e 'passa por duas entradas')."},
+    {"lat": 38.738486, "lon": -27.270188, "kind": "entrance", "confidence": "low", "method": "drawing-mark", "note": "Third E mark of Fig 7, at the junction with the dashed (unsurveyed) loop, next to a stipple patch; position transferred by similarity fit with ~5 m residuals."}
+  ],
+  "Gruta dos Principiantes": [
+    {"lat": 38.770092, "lon": -27.256382, "kind": "entrance", "confidence": "medium", "method": "drawing-mark", "note": "Entrance at a roof collapse ('abatimento onde está a respectiva entrada' - Freguesia de Biscoitos page): upper hachured collapse rim crossing the tube in the southern third. GBIF fix is 26 m W - good agreement. Tube continues upslope (S) beyond, blocked with soil (dashed S tip)."}
+  ],
+  "Furna de Santa Maria": [
+    {"lat": 38.713334, "lon": -27.181209, "kind": "entrance", "confidence": "medium", "method": "gbif-snap", "note": "GBIF fix (49 m NW) snaps exactly onto the stippled debris-cone feature drawn against the N wall of the main chamber - classic under-opening breakdown cone; best entrance estimate. Caveat: drawing extent (~20x55 m) is far smaller than the stated 320 m length - SIGCAVA georeferencing/scale of this drawing is suspect."},
+    {"lat": 38.713483, "lon": -27.181006, "kind": "entrance", "confidence": "low", "method": "drawing-mark", "note": "NE head of the drawn double line (path/water channel with two small square structures - Cabrito water-supply area) descending into the cave; possible man-made access."}
+  ],
+  "Galeria da Queimada": [
+    {"lat": 38.750652, "lon": -27.266822, "kind": "skylight", "confidence": "low", "method": "drawing-mark", "note": "Only candidate mark in the drawing: hachured half-circle bite in the E wall of the W gallery plus a small circle drawn beside it (and water-line dashes inside). No GBIF fix and no textual entrance description found."},
+    {"lat": 38.752513, "lon": -27.267406, "kind": "entrance", "confidence": "low", "method": "endpoint", "note": "N tip: walls end open (drawing cut) - possible entrance/continuation. Matches the N extremity given in the field notes (38.75253, -27.2679 approx.). S extremity (38.750045,-27.266568) is drawn closed."}
+  ],
+  "_meta": {
+    "frame": "All points lie in SIGCAVA survey-drawing space (EPSG:4326) so they overlay correctly on the gfi_ln polylines; absolute accuracy is limited by each drawing's georeferencing.",
+    "gbif_snap_distances_m": {"Gruta das Agulhas": 18.8, "Gruta dos Balcões": 185.2, "Gruta da Branca Opala": 70.4, "Gruta do Chocolate": 21.4, "Gruta da Madre de Deus": 39.8, "Gruta da Malha": 26.8, "Furna de Santa Maria": 49.1, "Gruta do Coelho": 148.1, "Gruta dos Principiantes": 26.1},
+    "sources": ["SIGCAVA WMS GetFeatureInfo vector drawings (2024)", "Borges, Pereira & Silva 1994 'Grutas e Algares dos Açores I - Seis novas topografias' (Figs 5, 7, 10 + text)", "GBIF entrance fixes", "montanheiros.com (Gruta do Chocolate)", "freguesiabiscoitos.com (Gruta dos Principiantes)"]
+  }
+}

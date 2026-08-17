@@ -1,0 +1,87 @@
+This repository mixes original code, an original data compilation, and
+third-party material. Different terms apply to each part.
+
+================================================================================
+1. Code — MIT License
+================================================================================
+
+Applies to: terceira-caves-app.html (the application markup, styles and
+scripts), photos.example.js, and .github/.
+
+MIT License
+
+Copyright (c) 2026 Xavier Francisco
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+2. Dataset — Creative Commons Attribution 4.0 International (CC BY 4.0)
+================================================================================
+
+Applies to: terceira_caves.csv, cavedata.js, cave_entrances.json,
+terceira_caves.gpx, photos.js (the caption and attribution records, not the
+image files), sigcava_terceira_merged.geojson and RESEARCH.md.
+
+Compilation © 2026 Xavier Francisco, licensed under CC BY 4.0
+<https://creativecommons.org/licenses/by/4.0/>.
+
+Suggested attribution: "Terceira Caves dataset, Xavier Francisco,
+https://github.com/Qu4tro/terceira-caves, CC BY 4.0".
+
+The compilation is derived from official and published sources that carry
+their own attribution requirements — see "Data sources" in README.md. In
+particular, coordinates, classes and scores originate from SIGCAVA (Governo
+dos Açores — Secretaria Regional do Ambiente e Ação Climática, Direção
+Regional do Ambiente e Ação Climática) and from Resolução do Conselho do
+Governo n.º 163/2024; fauna records derive from Borges et al. (2019),
+Biodiversity Data Journal 7: e32530 (CC BY 4.0) and the GBIF dataset "Azorean
+Cave Arthropods".
+
+================================================================================
+3. Photographs — individually licensed third-party works
+================================================================================
+
+Applies to: everything under photos/.
+
+Each image is a third-party work from Wikimedia Commons, used under its own
+licence (public domain, CC0, CC BY, or CC BY-SA). The photographer credit,
+licence and source page for every file are recorded in photos.js and rendered
+alongside the image in the application. Images under CC BY-SA remain under
+CC BY-SA; nothing in this file relicenses them.
+
+================================================================================
+4. Primary documents — third-party material, rights reserved by their owners
+================================================================================
+
+Applies to: everything under sources/ and the remaining raw files under
+sigcava_raw/.
+
+These are archival copies of the primary documents and raw data extracts
+behind the dataset, kept for verifiability. Rights remain with their
+respective publishers and authors:
+
+- resolucao_163_2024.pdf and dlr_10_2019A.pdf are official legal texts of the
+  Regional Government of the Azores (Jornal Oficial), which are not subject to
+  copyright protection as official texts.
+- sources/bdj2019/ derives from Borges et al. (2019), Biodiversity Data
+  Journal 7: e32530, CC BY 4.0.
+- sources/borges1994/ reproduces Borges, Pereira & Silva (1994), "Grutas e
+  Algares dos Açores. I", Actas do 3.º Congresso Nacional de Espeleologia, for
+  scholarly documentation. All rights remain with the authors.
+- sigcava_raw/ contains extracts of SIGCAVA GIS data, © Governo dos Açores.
